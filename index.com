@@ -8,5 +8,6 @@
   </head>
   <body>
     <h1>Redirectin'</h1>
+    <p>Go to <a href="https://cpandashboard.com/">cpandashboard.com</a> instead.</p>
   </body>
 </html>
